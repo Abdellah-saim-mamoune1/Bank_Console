@@ -43,7 +43,7 @@ cd SimpleBankingSystem
 
 ## Author: 
 
--Abdellah Saimmamoune
+-Abdellah Saim Mamoune
 
 ## License:
 
