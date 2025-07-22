@@ -14,6 +14,9 @@ This is a simple console-based banking system built using **C++**. It allows bas
 It's designed for educational purposes to practice object-oriented programming (OOP) in C++.
 
 ---
+
+## How to use it 
+
 1. Clone the repository:
 
 ```bash
