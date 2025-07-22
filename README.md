@@ -27,6 +27,8 @@ cd SimpleBankingSystem
 -use Users or clients code to log in to the system like A101.
 -Explore it.
 
+---
+
 ## Concepts Used:
 
 -Object-Oriented Programming (OOP)
