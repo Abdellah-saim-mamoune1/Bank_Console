@@ -21,10 +21,8 @@ It's designed for educational purposes to practice object-oriented programming (
 
 ```bash
 git clone https://github.com/Abdellah-saim-mamoune1/bank_project
-cd SimpleBankingSystem
 ```
 2. Run it:
-
 -use Users or clients code to log in to the system like A101.
 -Explore it.
 
